@@ -1,0 +1,37 @@
+{
+    "name": "chouhai2018/showrouter",
+    "description": "Laravel show router",
+    "keywords": [
+        "laravel",
+        "api",
+        "show",
+        "routes"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wx",
+            "email": "makewong@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "illuminate/support": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~7.0",
+        "mockery/mockery": "~0.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chouhai2018\\ShowRouter\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\Chouhai2018\\ShowRouter\\ShowRouterServiceProvider"
+            ]
+        }
+    }
+}
