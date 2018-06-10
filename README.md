@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/39079284/41203137-a3a213ae-6d05-11e8-85d8-1fd8f69e7fb8.png)
+
 # Installation
 
 ## Add Package
